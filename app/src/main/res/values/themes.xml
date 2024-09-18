@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Lab6IsaacGutierrez" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Lab6IsaacGutierrez.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Lab6IsaacGutierrez.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Lab6IsaacGutierrez.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
